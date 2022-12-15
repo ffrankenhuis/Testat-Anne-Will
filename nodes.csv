@@ -1,0 +1,24 @@
+id,name,party,sector,episode,episode2
+ab,Annalena Baerbock,Gruene,Politik,502,NA
+agl,Alexander Graf Lambsdorff,FDP,Politik,502,NA
+am,Andrij Melnyk,NA,Politik,502,NA
+cl,Christian Lindner,FDP,Politik,501,NA
+cm,Claudia Major,NA,Wissenschaft,503,NA
+cs,Constanze Stelzenmüller,NA,Recht,500,NA
+el,Egils Levit,NA,Politik,501,NA
+er,Egon Ramms,NA,Militär,502,NA
+ft,Frans Timmermans,NA,Politik,502,NA
+kd,Kristina Dunz,NA,Journalismus,501,NA
+kp,Katja Petrowskaja,NA,Journalismus,503,NA
+ks,Karl Schlögel,NA,Geschichte,501,NA
+lk,Lars Klingbeil,SPD,Politik,500,503
+lm,Ljudmyla Melnyk,NA,Wissenschaft,501,NA
+nr,Norbert Röttgen,CDU,Politik,500,501
+rh,Robert Habeck,Gruene,Politik,503,NA
+rk,Roderich Kiesewetter,CDU,Politik,503,NA
+sw,Sarah Wagenknecht,Linke,Politik,500,NA
+ul,Ursula von der Leyen,CDU,Politik,500,NA
+500,Folge 500,,,,
+501,Folge 501,,,,
+502,Folge 502,,,,
+503,Folge 503,,,,
